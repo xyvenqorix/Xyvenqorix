@@ -31,6 +31,7 @@ Diseño proyectos optimizados combinando programación, creatividad y experienci
 <img src="https://img.shields.io/badge/Web-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
+<img src="https://img.shields.io/badge/Platform-Web%20%7C%20PC%20%7C%20Nintendo-blue"/>
 
 </p>
 
