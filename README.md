@@ -10,6 +10,10 @@
   Desarrollo Web • Software • Apps • Tecnología
 </p>
 
+<p align="center">
+  mi portafolio: xyvenqorix.vercel.app 
+</p>
+
 ---
 
 ## 💻 Sobre Xyvenqorix
