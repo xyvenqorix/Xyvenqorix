@@ -97,7 +97,7 @@ Soy **Rodol**, creador de contenido UGC y desarrollador. Me gusta crear proyecto
 ### ⚡ Creando. Aprendiendo. Experimentando.
 
 <a href="https://github.com/xyvenqorix/Xyvenqorix/blob/main/assets/carita.svg">
-  <img src="https://raw.githubusercontent.com/xyvenqorix/Xyvenqorix/main/assets/carita.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/xyvenqorix/misworkflows/main/assets/carita.svg" width="100%">
 </a>
 
 </div>
