@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/xyvenqorix/Xyvenqorix/blob/main/assets/xyvenqorix.svg">
-  <img src="https://raw.githubusercontent.com/xyvenqorix/Xyvenqorix/main/assets/xyvenqorix.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/xyvenqorix/misworkflows/main/assets/xyvenqorix.svg" width="100%">
 </a>
 
 <a href="https://xyvenqorix.vercel.app/blog#servicios-cuanto-cobras-por-tus-servicios-de-promocion-1">
