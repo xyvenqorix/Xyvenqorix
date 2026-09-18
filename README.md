@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
+<a href="https://xyvenqorix.vercel.app/blog">
+  <img src="https://img.shields.io/badge/blog-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
  # 👋 Hola, soy XYVENQORIX
 
 **Vibe Coder • Creador de contenido UGC • Desarrollador Web • Automatización IA**
