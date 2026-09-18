@@ -4,9 +4,7 @@
   <img src="https://raw.githubusercontent.com/xyvenqorix/misworkflows/main/assets/xyvenqorix.svg" width="100%">
 </a>
 
-<a href="https://xyvenqorix.vercel.app/blog#servicios-cuanto-cobras-por-tus-servicios-de-promocion-1">
-  <img src="https://img.shields.io/badge/Blog-555?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E4K0278HGA)
 
 <a href="https://xyvenqorix.vercel.app/#proyectos">
   <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
